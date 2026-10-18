@@ -30,11 +30,8 @@
 | 我想做什么 | 推荐入口 | 从哪一步开始 |
 | --- | --- | --- |
 | 练习编程与算法 | [算法学习资料](https://github.com/PKU-AFT/AFT-leetcode-master) | 选择一个专题，完成练习并记录解题思路 |
-| 完成第一个金融数据小项目 | [因子泄露检测入门](https://github.com/PKU-AFT/leak-detector-starter) | 按项目说明准备环境，用模拟数据理解未来信息泄露 |
-| 接触因子研究流程 | [Workshop Week 2](https://github.com/PKU-AFT/Workshop-week2) | 阅读数据和配置说明，了解单因子处理入口 |
 | 学习完整的竞赛研究流程 | [2024 竞赛复现内培](https://github.com/PKU-AFT/AFT-2024-Competition-Reproduction-Training) | 从 EDA 开始，依次阅读特征工程与模型代码 |
 | 研究更多模型与训练方法 | [2025 竞赛复现内培](https://github.com/PKU-AFT/AFT-2025-Competition-Reproduction-Training) | 选择一个模型，梳理数据输入、时间切分与训练过程 |
-| 探索链上交易机制 | [MEV 模拟与防御研究](https://github.com/PKU-AFT/MEV) | 阅读项目说明，理解三明治攻击及防御策略的模拟条件 |
 
 ## 项目与实践
 
@@ -42,12 +39,6 @@
 
 - **[2024 Competition Reproduction Training](https://github.com/PKU-AFT/AFT-2024-Competition-Reproduction-Training)**：围绕 Kaggle Optiver 2023 Trading at Close 赛题，整理 EDA、特征工程与模型训练的内培代码和实验材料。
 - **[2025 Competition Reproduction Training](https://github.com/PKU-AFT/AFT-2025-Competition-Reproduction-Training)**：金融时序预测项目，包含特征工程、多种模型架构与滚动窗口训练的探索。
-- **[Workshop Week 2](https://github.com/PKU-AFT/Workshop-week2)**：单因子处理与研究练习材料。
-
-### 技术入门与专题探索
-
-- **[Leak Detector Starter](https://github.com/PKU-AFT/leak-detector-starter)**：面向新成员的因子泄露检测练习，结合模拟行情数据、代码补全和 AI 辅助开发，学习识别未来信息的误用。
-- **[MEV](https://github.com/PKU-AFT/MEV)**：围绕 Uniswap V2 三明治攻击与防御策略的模拟研究，包含智能合约、计算脚本与可视化应用。
 
 ### 学习资源与协会作品
 
